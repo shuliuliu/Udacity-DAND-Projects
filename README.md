@@ -11,4 +11,10 @@
 
 **Tools:**  Python (pandas, numpy, matplotlib, seaborn)
 
+## Project 3: Analyze AB Test
+
+**Summary:**  This project is to analyze the results of an A/B test run by an e-commerce website. The analysis helps the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+**Tools:**  Python (pandas, numpy, statsmodels, random, matplotlib)
+
 MORE TO COME...
