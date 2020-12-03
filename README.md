@@ -17,4 +17,18 @@
 
 **Tools:**  Python (pandas, numpy, statsmodels, random, matplotlib)
 
-MORE TO COME...
+## Project 4: Analyze Dog Ratings @WeRateDogs
+
+**Summary:**  This project is about data wrangling and visual analysis of data from the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. WeRateDogs has over 4 million followers and has received international media coverage. 
+
+The dataset is composed of a Twitter archive file in .csv format, a .tsv file hosted on Udacity's server, and JSON data queried using Python's Tweepy library from Twitter API. The Jupyter notebook demonstrates the detailed process to gather, assess and clean data. The wrangle report provides a brief description of the steps taken during the data wrangling process. The act report provides insights of the dog ratings tweet data using visualization techniques.
+
+**Tools:**  Python (pandas, numpy, seaborn, matplotlib, requests, os, tweepy, json)
+
+## Project 5: Study of U.S. Flight Delays in 2008
+
+**Summary:**  This project is to study the flight delays data and study the relationships between flight delays and various factors such as carrier, airport, flight time as well as flight distance.
+
+The dataset for this project reports flights in the United States during the year of 2008 with 7,009,728 original records in total, including carriers, airports, arrival and departure delays as well as flight cancellations. After preliminary data wrangling, I added a few data features and removed unusable data records. As a result, the dataset now has 6,753,922 flight records with 32 features. 
+
+**Tools:**  Python (pandas, numpy, seaborn, matplotlib)
